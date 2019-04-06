@@ -1,0 +1,24 @@
+{
+  "name": "system",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "ok",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeytalo/system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermeytalo/system/issues"
+  },
+  "homepage": "https://github.com/guilhermeytalo/system#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.4",
+    "package.json": "^2.0.1"
+  }
+}
